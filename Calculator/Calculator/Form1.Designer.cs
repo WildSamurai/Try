@@ -2,15 +2,11 @@
 {
     partial class Form1
     {
-        /// <summary>
-        /// Обязательная переменная конструктора.
-        /// </summary>
+        
+        
+        
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Освободить все используемые ресурсы.
-        /// </summary>
-        /// <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -52,8 +48,8 @@
             this.button2 = new System.Windows.Forms.Button();
             this.TextResult = new System.Windows.Forms.Label();
             this.panel = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.textHistory = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.button5 = new System.Windows.Forms.Button();
             this.button10 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
@@ -387,16 +383,9 @@
             this.panel.Controls.Add(this.textHistory);
             this.panel.Location = new System.Drawing.Point(2, 26);
             this.panel.Name = "panel";
-            this.panel.Size = new System.Drawing.Size(363, 54);
+            this.panel.Size = new System.Drawing.Size(360, 54);
             this.panel.TabIndex = 3;
-            // 
-            // panel2
-            // 
-            this.panel2.BackColor = System.Drawing.Color.Transparent;
-            this.panel2.Location = new System.Drawing.Point(2, 86);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(363, 54);
-            this.panel2.TabIndex = 4;
+            this.panel.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_Paint);
             // 
             // textHistory
             // 
@@ -407,6 +396,15 @@
             this.textHistory.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.textHistory.Size = new System.Drawing.Size(0, 24);
             this.textHistory.TabIndex = 5;
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.Transparent;
+            this.panel2.ImeMode = System.Windows.Forms.ImeMode.Off;
+            this.panel2.Location = new System.Drawing.Point(2, 86);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(360, 54);
+            this.panel2.TabIndex = 4;
             // 
             // button5
             // 

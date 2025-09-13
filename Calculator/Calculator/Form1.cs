@@ -216,5 +216,10 @@ namespace Calculator
         {
 
         }
+
+        private void panel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

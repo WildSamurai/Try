@@ -8,3 +8,14 @@ C:\test work\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.
 C:\test work\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\test work\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\test work\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\git\1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\git\1\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\git\1\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.exe.config
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\git\1\Calculator\Calculator\obj\Debug\Calculator.pdb
