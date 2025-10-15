@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitLab\\task3\\MaxMin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F5F099-61DC-4D36-A25D-DF612BB90912}|MaxMin.csproj|d:\\gitlab\\task3\\maxmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F5F099-61DC-4D36-A25D-DF612BB90912}|MaxMin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5C6456-1B5D-44CC-A087-BEC440C830BD}|..\\UnitTest\\UnitTest.csproj|d:\\gitlab\\task3\\unittest\\linesumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F5F099-61DC-4D36-A25D-DF612BB90912}|MaxMin.csproj|d:\\gitlab\\task3\\maxmin\\filelineprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F5F099-61DC-4D36-A25D-DF612BB90912}|MaxMin.csproj|solutionrelative:filelineprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F5F099-61DC-4D36-A25D-DF612BB90912}|MaxMin.csproj|d:\\gitlab\\task3\\maxmin\\calculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F5F099-61DC-4D36-A25D-DF612BB90912}|MaxMin.csproj|solutionrelative:calculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationStrategy.cs",
+              "DocumentMoniker": "D:\\GitLab\\task3\\MaxMin\\CalculationStrategy.cs",
+              "RelativeDocumentMoniker": "CalculationStrategy.cs",
+              "ToolTip": "D:\\GitLab\\task3\\MaxMin\\CalculationStrategy.cs",
+              "RelativeToolTip": "CalculationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:48:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitLab\\task3\\MaxMin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitLab\\task3\\MaxMin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:46:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LineSumCalculator.cs",
+              "DocumentMoniker": "D:\\GitLab\\task3\\UnitTest\\LineSumCalculator.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\LineSumCalculator.cs",
+              "ToolTip": "D:\\GitLab\\task3\\UnitTest\\LineSumCalculator.cs",
+              "RelativeToolTip": "..\\UnitTest\\LineSumCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:53:32.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLineProcessor.cs",
+              "DocumentMoniker": "D:\\GitLab\\task3\\MaxMin\\FileLineProcessor.cs",
+              "RelativeDocumentMoniker": "FileLineProcessor.cs",
+              "ToolTip": "D:\\GitLab\\task3\\MaxMin\\FileLineProcessor.cs",
+              "RelativeToolTip": "FileLineProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:15:28.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

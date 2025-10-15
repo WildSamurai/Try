@@ -1,0 +1,14 @@
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+D:\GitLab\Task4\Calculator\bin\Debug\net9.0\Calculator.exe
+D:\GitLab\Task4\Calculator\bin\Debug\net9.0\Calculator.deps.json
+D:\GitLab\Task4\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+D:\GitLab\Task4\Calculator\bin\Debug\net9.0\Calculator.dll
+D:\GitLab\Task4\Calculator\bin\Debug\net9.0\Calculator.pdb
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\Calculator.dll
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\Calculator.pdb
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+D:\GitLab\Task4\Calculator\obj\Debug\net9.0\ref\Calculator.dll
